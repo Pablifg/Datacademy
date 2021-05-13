@@ -48,7 +48,7 @@ def main():
         elif(cont_2 > 2):
             print("=" * 50)
             print("Oh no! You lost the game :c")
-            print(f"Computer won {cont_1} of {attemps} times")
+            print(f"Computer won {cont_2} of {attemps} times")
             break
 
 
