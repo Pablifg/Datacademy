@@ -11,6 +11,9 @@
 - Calculadora de volúmenes 🧮
 - Rangos cambiantes 🔢
 
+## _Semana 2: Regresión Lineal_
+
+- Modelo de regresión lineal en Colab📈
 
 ## License
 
